@@ -26,13 +26,13 @@ local function guiBypass()
     for i, v in pairs(getconnections(game.DescendantAdded)) do
         v:Disable()
     end
-    for i, v in pairs(getconnections(game.LocalPlayer.PlayerGui.ChildAdded)) do
+    for i, v in pairs(getconnections(LocalPlayer.PlayerGui.ChildAdded)) do
         v:Disable()
     end
 end
 
 local function btoolsBypass()
-    for i, v in pairs(getconnections(game.LocalPlayer.Backpack.ChildAdded)) do
+    for i, v in pairs(getconnections(LocalPlayer.Backpack.ChildAdded)) do
         v:Disable()
     end
 end
