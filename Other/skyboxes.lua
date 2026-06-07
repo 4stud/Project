@@ -5,7 +5,6 @@ local skyboxes = {
     purpleday = {bk="rbxassetid://296908715", dn="rbxassetid://296908724", ft="rbxassetid://296908740", lf="rbxassetid://296908755", rt="rbxassetid://296908764", up="rbxassetid://296908769"},
     space = {bk="rbxassetid://149397692", dn="rbxassetid://149397686", ft="rbxassetid://149397697", lf="rbxassetid://149397684", rt="rbxassetid://149397688", up="rbxassetid://149397702"},
     default = {bk="rbxassetid://6444884337", dn="rbxassetid://6444884785", ft="rbxassetid://6444884337", lf="rbxassetid://6444884337", rt="rbxassetid://6444884337", up="rbxassetid://6412503613"},
-    vibemorning = {bk="rbxassetid://1417494030", dn="rbxassetid://1417494146", ft="rbxassetid://1417494253", lf="rbxassetid://1417494402", rt="rbxassetid://1417494499", up="rbxassetid://1417494643"},
     greenspace = {bk="rbxassetid://159248188", dn="rbxassetid://159248183", ft="rbxassetid://159248187", lf="rbxassetid://159248173", rt="rbxassetid://159248192", up="rbxassetid://159248176"},
     spongebob = {bk="rbxassetid://10287764626", dn="rbxassetid://10287766382", ft="rbxassetid://10287764626", lf="rbxassetid://10287763421", rt="rbxassetid://10287764626", up="rbxassetid://10287767597"},
     pinkday = {bk="rbxassetid://271042516", dn="rbxassetid://271077243", ft="rbxassetid://271042556", lf="rbxassetid://271042310", rt="rbxassetid://271042467", up="rbxassetid://271077958"},
